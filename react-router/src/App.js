@@ -5,6 +5,8 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Packages from "./components/Packages";
 
+//test
+
 function App() {
   const packages = [
     "Activate your Crystals",
